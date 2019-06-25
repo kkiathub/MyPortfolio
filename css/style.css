@@ -292,7 +292,7 @@ ul.social_section_1info a {
 }
 ul.social_section_1info a span.fa {
     color: #fff;
-    font-size: 13.5px;
+    font-size: 20px;
     line-height: 40px;
 }
 /* //banner */
@@ -710,7 +710,7 @@ footer ul.social_section_1info a {
 footer ul.social_section_1info a span.fa{
     color: #aaa;
     line-height: 35px;
-    font-size: 13px;
+    font-size: 16px;
 }
 h3.wthree-logo a {
     text-transform: capitalize;
